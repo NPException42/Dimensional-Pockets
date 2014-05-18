@@ -1,10 +1,9 @@
 package net.gtn.dimensionalpocket.common.core.utils;
 
-import net.minecraft.world.IBlockAccess;
 
 
 public class RedstoneHelper {
-    public static void checkNeighboursAndUpdateInputStrength(IBlockAccess world, int x, int y, int z) {
+//    public static void checkNeighboursAndUpdateInputStrength(IBlockAccess world, int x, int y, int z) {
 //        for (ForgeDirection direction : ForgeDirection.VALID_DIRECTIONS) {
 //            int neighbourX = x + direction.offsetX;
 //            int neighbourY = y + direction.offsetY;
@@ -22,7 +21,7 @@ public class RedstoneHelper {
 //            tile.getPocket().setInputSignal(direction.ordinal(), strength);
 //            DPLogger.info("Changed inputsignal: " + direction.name() + " to " + strength);
 //        }
-    }
+//    }
 //
 //    public static void checkWallNeighbourAndUpdateOutputStrength(IBlockAccess world, int x, int y, int z) {
 //        ForgeDirection wallSide = Pocket.getSideForBlock(new CoordSet(x, y, z).asSpawnPoint());

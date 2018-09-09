@@ -1,8 +1,8 @@
 {
   "1.7.10": {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "url": "https://minecraft.curseforge.com/projects/dimensional-pockets",
-    "additionalInfo": "Fixed a conflict with OpenComputers",
+    "additionalInfo": "Dimensional Pockets now work in The End",
     "additionalInfoColour": "GREEN",
     "changelog" : "https://github.com/NPException/Dimensional-Pockets/wiki/Changelog"
   }
